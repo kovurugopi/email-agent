@@ -21,7 +21,7 @@ This agent uses **Gemini 2.5 Flash** as its LLM and integrates with the **Gmail 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/email-agent.git
+git clone https://github.com/kovurugopi/email-agent.git
 cd email-agent
 ```
 
