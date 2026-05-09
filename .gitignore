@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Environment variables
+email_agent/.env
+
+# OAuth credentials and tokens
+email_agent/credentials.json
+email_agent/token.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ADK session data
+email_agent/.adk/
+.adk/
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
